@@ -1,0 +1,8 @@
+Write a program that will calculate the cost of a custom cup of coffee based on the following criteria:
+
+Ask the user what size cup they want, choosing between small, medium, and large.
+Ask the user what kind of coffee they want, choosing between brewed, espresso, and cold brew.
+Ask the user what flavoring they want, if any. Choices include hazelnut, vanilla, and caramel.
+Calculate the price of the cup using the following values:
+
+

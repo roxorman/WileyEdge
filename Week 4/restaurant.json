@@ -1,0 +1,226 @@
+[
+    {
+      "address": {
+        "building": "87-69",
+        "coord": [-73.8309503, 40.7001121],
+        "street": "Lefferts Boulevard",
+        "zipcode": "11418"
+      },
+      "borough": "Queens",
+      "cuisine": "American",
+      "grades": [
+        {"date": {"$date": 1393286400000}, "grade": "A", "score": 7},
+        {"date": {"$date": 1376438400000}, "grade": "A", "score": 11},
+        {"date": {"$date": 1344297600000}, "grade": "A", "score": 7},
+        {"date": {"$date": 1332720000000}, "grade": "A", "score": 10},
+        {"date": {"$date": 1320364800000}, "grade": "A", "score": 0},
+        {"date": {"$date": 1309305600000}, "grade": "A", "score": 4}
+      ],
+      "name": "Snack Time Grill",
+      "restaurant_id": "40363590"
+    },
+    {
+      "address": {
+        "building": "1418",
+        "coord": [-73.95685019999999, 40.7753401],
+        "street": "Third Avenue",
+        "zipcode": "10028"
+      },
+      "borough": "Manhattan",
+      "cuisine": "Continental",
+      "grades": [
+        {"date": {"$date": 1401667200000}, "grade": "A", "score": 9},
+        {"date": {"$date": 1388102400000}, "grade": "A", "score": 8},
+        {"date": {"$date": 1363564800000}, "grade": "B", "score": 26},
+        {"date": {"$date": 1328054400000}, "grade": "A", "score": 7},
+        {"date": {"$date": 1309910400000}, "grade": "B", "score": 25}
+      ],
+      "name": "Lorenzo & Maria'S",
+      "restaurant_id": "40363630"
+    },
+    {
+      "address": {
+        "building": "464",
+        "coord": [-73.9791458, 40.744328],
+        "street": "3 Avenue",
+        "zipcode": "10016"
+      },
+      "borough": "Manhattan",
+      "cuisine": "Pizza",
+      "grades": [
+        {"date": {"$date": 1407196800000}, "grade": "A", "score": 3},
+        {"date": {"$date": 1394064000000}, "grade": "A", "score": 11},
+        {"date": {"$date": 1373328000000}, "grade": "A", "score": 12},
+        {"date": {"$date": 1359504000000}, "grade": "A", "score": 4},
+        {"date": {"$date": 1325721600000}, "grade": "A", "score": 2},
+        {"date": {"$date": 1316995200000}, "grade": "A", "score": 0}
+      ],
+      "name": "Domino'S Pizza",
+      "restaurant_id": "40363644"
+    },
+    {
+      "address": {
+        "building": "437",
+        "coord": [-73.975393, 40.757365],
+        "street": "Madison Avenue",
+        "zipcode": "10022"
+      },
+      "borough": "Manhattan",
+      "cuisine": "American",
+      "grades": [
+        {"date": {"$date": 1401753600000}, "grade": "A", "score": 9},
+        {"date": {"$date": 1370563200000}, "grade": "A", "score": 5},
+        {"date": {"$date": 1340928000000}, "grade": "A", "score": 12},
+        {"date": {"$date": 1328486400000}, "grade": "A", "score": 11},
+        {"date": {"$date": 1308787200000}, "grade": "A", "score": 13}
+      ],
+      "name": "Berkely",
+      "restaurant_id": "40363685"
+    },
+    {
+      "address": {
+        "building": "1031",
+        "coord": [-73.9075537, 40.6438684],
+        "street": "East   92 Street",
+        "zipcode": "11236"
+      },
+      "borough": "Brooklyn",
+      "cuisine": "American",
+      "grades": [
+        {"date": {"$date": 1391558400000}, "grade": "A", "score": 0},
+        {"date": {"$date": 1359417600000}, "grade": "A", "score": 3},
+        {"date": {"$date": 1323302400000}, "grade": "A", "score": 10}
+      ],
+      "name": "Sonny'S Heros",
+      "restaurant_id": "40363744"
+    },
+    {
+      "address": {
+        "building": "1111",
+        "coord": [-74.0796436, 40.59878339999999],
+        "street": "Hylan Boulevard",
+        "zipcode": "10305"
+      },
+      "borough": "Staten Island",
+      "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+      "grades": [
+        {"date": {"$date": 1398297600000}, "grade": "A", "score": 12},
+        {"date": {"$date": 1361836800000}, "grade": "A", "score": 5},
+        {"date": {"$date": 1328140800000}, "grade": "A", "score": 2}
+      ],
+      "name": "Carvel Ice Cream",
+      "restaurant_id": "40363834"
+    },
+    {
+      "address": {
+        "building": "976",
+        "coord": [-73.92701509999999, 40.6620192],
+        "street": "Rutland Road",
+        "zipcode": "11212"
+      },
+      "borough": "Brooklyn",
+      "cuisine": "Chinese",
+      "grades": [
+        {"date": {"$date": 1398211200000}, "grade": "A", "score": 13},
+        {"date": {"$date": 1364256000000}, "grade": "A", "score": 10},
+        {"date": {"$date": 1331596800000}, "grade": "A", "score": 4},
+        {"date": {"$date": 1321401600000}, "grade": "A", "score": 13}
+      ],
+      "name": "Golden Pavillion",
+      "restaurant_id": "40363920"
+    },
+    {
+      "address": {
+        "building": "148",
+        "coord": [-73.9806854, 40.7778589],
+        "street": "West   72 Street",
+        "zipcode": "10023"
+      },
+      "borough": "Manhattan",
+      "cuisine": "Pizza",
+      "grades": [
+        {"date": {"$date": 1417996800000}, "grade": "A", "score": 13},
+        {"date": {"$date": 1399248000000}, "grade": "B", "score": 18},
+        {"date": {"$date": 1365120000000}, "grade": "A", "score": 13},
+        {"date": {"$date": 1333065600000}, "grade": "A", "score": 9}
+      ],
+      "name": "Domino'S Pizza",
+      "restaurant_id": "40363945"
+    },
+    {
+      "address": {
+        "building": "364",
+        "coord": [-73.96084119999999, 40.8014307],
+        "street": "West  110 Street",
+        "zipcode": "10025"
+      },
+      "borough": "Manhattan",
+      "cuisine": "American",
+      "grades": [
+        {"date": {"$date": 1409788800000}, "grade": "B", "score": 20},
+        {"date": {"$date": 1393372800000}, "grade": "B", "score": 23},
+        {"date": {"$date": 1364169600000}, "grade": "A", "score": 12},
+        {"date": {"$date": 1329782400000}, "grade": "A", "score": 8}
+      ],
+      "name": "Spoon Bread Catering",
+      "restaurant_id": "40364179"
+    },
+    {
+      "address": {
+        "building": "1423",
+        "coord": [-73.9615132, 40.6253268],
+        "street": "Avenue J",
+        "zipcode": "11230"
+      },
+      "borough": "Brooklyn",
+      "cuisine": "Jewish/Kosher",
+      "grades": [
+        {"date": {"$date": 1418947200000}, "grade": "A", "score": 10},
+        {"date": {"$date": 1386201600000}, "grade": "A", "score": 11},
+        {"date": {"$date": 1354752000000}, "grade": "A", "score": 9}
+      ],
+      "name": "Kosher Bagel Hole",
+      "restaurant_id": "40364220"
+    }, 
+    {"address": {"building": "222-05", "coord": [-73.75767259999999, 40.7538214], "street": "56 Avenue", "zipcode": "11364"}, "borough": "Queens", "cuisine": "American", "grades": [{"date": {"$date": 1407196800000}, "grade": "A", "score": 10}, {"date": {"$date": 1391558400000}, "grade": "A", "score": 9}, {"date": {"$date": 1373932800000}, "grade": "A", "score": 11}, {"date": {"$date": 1354665600000}, "grade": "A", "score": 5}, {"date": {"$date": 1340064000000}, "grade": "A", "score": 13}], "name": "Science Cafe (Queensborough  Community College)", "restaurant_id": "40386793"},
+{"address": {"building": "3101", "coord": [-73.8812773, 40.679218], "street": "Atlantic Avenue", "zipcode": "11208"}, "borough": "Brooklyn", "cuisine": "Hamburgers", "grades": [{"date": {"$date": 1415923200000}, "grade": "A", "score": 2}, {"date": {"$date": 1382313600000}, "grade": "A", "score": 3}, {"date": {"$date": 1352851200000}, "grade": "A", "score": 0}], "name": "White Castle", "restaurant_id": "40386837"},
+{"address": {"building": "783", "coord": [-73.988231, 40.76503200000001], "street": "9 Avenue", "zipcode": "10019"}, "borough": "Manhattan", "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)", "grades": [{"date": {"$date": 1420588800000}, "grade": "A", "score": 11}, {"date": {"$date": 1401321600000}, "grade": "B", "score": 17}, {"date": {"$date": 1384819200000}, "grade": "B", "score": 16}, {"date": {"$date": 1369699200000}, "grade": "C", "score": 53}, {"date": {"$date": 1352937600000}, "grade": "B", "score": 14}, {"date": {"$date": 1337040000000}, "grade": "A", "score": 13}], "name": "El Azteca Mexican Restaurant", "restaurant_id": "40386927"},
+{"address": {"building": "244", "coord": [-73.967893, 40.75682], "street": "East   53 Street", "zipcode": "10022"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1399507200000}, "grade": "A", "score": 7}, {"date": {"$date": 1369872000000}, "grade": "A", "score": 9}, {"date": {"$date": 1338940800000}, "grade": "A", "score": 4}, {"date": {"$date": 1323820800000}, "grade": "A", "score": 5}, {"date": {"$date": 1306108800000}, "grade": "B", "score": 19}], "name": "T & G Whitney'S", "restaurant_id": "40386970"},
+{"address": {"building": "110", "coord": [-74.0045136, 40.7236625], "street": "Avenue Of The Americas", "zipcode": "10013"}, "borough": "Manhattan", "cuisine": "Mexican", "grades": [{"date": {"$date": 1397433600000}, "grade": "A", "score": 11}, {"date": {"$date": 1364342400000}, "grade": "A", "score": 10}, {"date": {"$date": 1350345600000}, "grade": "A", "score": 3}, {"date": {"$date": 1332892800000}, "grade": "B", "score": 22}, {"date": {"$date": 1315785600000}, "grade": "A", "score": 2}], "name": "Lupe'S East L.A. Kitchen", "restaurant_id": "40386976"},
+{"address": {"building": "1396", "coord": [-73.9573454, 40.7747147], "street": "Third Avenue", "zipcode": "10075"}, "borough": "Manhattan", "cuisine": "Italian", "grades": [{"date": {"$date": 1392854400000}, "grade": "A", "score": 5}, {"date": {"$date": 1358985600000}, "grade": "A", "score": 13}, {"date": {"$date": 1324944000000}, "grade": "A", "score": 9}], "name": "Due", "restaurant_id": "40386999"},
+{"address": {"building": "8707", "coord": [-73.8789718, 40.7483467], "street": "Roosevelt Avenue", "zipcode": "11372"}, "borough": "Queens", "cuisine": "Chicken", "grades": [{"date": {"$date": 1418256000000}, "grade": "A", "score": 12}, {"date": {"$date": 1386115200000}, "grade": "A", "score": 2}, {"date": {"$date": 1371254400000}, "grade": "A", "score": 13}, {"date": {"$date": 1337558400000}, "grade": "A", "score": 7}], "name": "La Casa Del Pollo Restaurant", "restaurant_id": "40387027"},
+{"address": {"building": "138", "coord": [-73.99741519999999, 40.7186078], "street": "Mulberry Street", "zipcode": "10013"}, "borough": "Manhattan", "cuisine": "Italian", "grades": [{"date": {"$date": 1395273600000}, "grade": "A", "score": 11}, {"date": {"$date": 1380499200000}, "grade": "A", "score": 10}, {"date": {"$date": 1365638400000}, "grade": "A", "score": 7}, {"date": {"$date": 1330905600000}, "grade": "A", "score": 12}, {"date": {"$date": 1311552000000}, "grade": "A", "score": 9}], "name": "Pellegrino'S", "restaurant_id": "40387086"},
+{"address": {"building": "1677", "coord": [-73.87113099999999, 40.825183], "street": "Bruckner Boulevard", "zipcode": "10472"}, "borough": "Bronx", "cuisine": "Hamburgers", "grades": [{"date": {"$date": 1386892800000}, "grade": "A", "score": 7}, {"date": {"$date": 1354752000000}, "grade": "A", "score": 11}, {"date": {"$date": 1324512000000}, "grade": "A", "score": 9}, {"date": {"$date": 1294790400000}, "grade": "A", "score": 2}], "name": "White Castle", "restaurant_id": "40387143"},
+{"address": {"building": "107", "coord": [-73.99582699999999, 40.739672], "street": "West   17 Street", "zipcode": "10011"}, "borough": "Manhattan", "cuisine": "Italian", "grades": [{"date": {"$date": 1415577600000}, "grade": "A", "score": 12}, {"date": {"$date": 1393977600000}, "grade": "A", "score": 13}, {"date": {"$date": 1367366400000}, "grade": "A", "score": 12}, {"date": {"$date": 1350950400000}, "grade": "A", "score": 13}, {"date": {"$date": 1349222400000}, "grade": "P", "score": 5}], "name": "Da Umberto Restaurant", "restaurant_id": "40387162"},
+{"address": {"building": "550", "coord": [-73.8864787, 40.8588703], "street": "East Fordham Road", "zipcode": "10458"}, "borough": "Bronx", "cuisine": "Hamburgers", "grades": [{"date": {"$date": 1395878400000}, "grade": "A", "score": 5}, {"date": {"$date": 1363651200000}, "grade": "A", "score": 2}, {"date": {"$date": 1350950400000}, "grade": "A", "score": 13}, {"date": {"$date": 1320278400000}, "grade": "A", "score": 10}], "name": "White Castle", "restaurant_id": "40387178"},
+{"address": {"building": "96", "coord": [-73.9585056, 40.7193481], "street": "Berry Street", "zipcode": "11249"}, "borough": "Brooklyn", "cuisine": "American", "grades": [{"date": {"$date": 1417996800000}, "grade": "A", "score": 13}, {"date": {"$date": 1382572800000}, "grade": "A", "score": 4}, {"date": {"$date": 1369180800000}, "grade": "A", "score": 11}, {"date": {"$date": 1355097600000}, "grade": "B", "score": 15}], "name": "Teddy'S Bar And Grill", "restaurant_id": "40387201"},
+{"address": {"building": "14", "coord": [-73.9883909, 40.740735], "street": "East   23 Street", "zipcode": "10010"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1414454400000}, "grade": "A", "score": 9}, {"date": {"$date": 1397088000000}, "grade": "A", "score": 12}, {"date": {"$date": 1375920000000}, "grade": "C", "score": 58}, {"date": {"$date": 1360800000000}, "grade": "A", "score": 13}, {"date": {"$date": 1339718400000}, "grade": "C", "score": 71}], "name": "Live Bait Bar & Restaurant", "restaurant_id": "40387237"},
+{"address": {"building": "280", "coord": [-74.1386716, 40.6160213], "street": "Watchogue Road", "zipcode": "10314"}, "borough": "Staten Island", "cuisine": "American", "grades": [{"date": {"$date": 1405382400000}, "grade": "B", "score": 19}, {"date": {"$date": 1386028800000}, "grade": "B", "score": 25}, {"date": {"$date": 1367884800000}, "grade": "A", "score": 10}, {"date": {"$date": 1340064000000}, "grade": "A", "score": 9}, {"date": {"$date": 1322697600000}, "grade": "B", "score": 15}, {"date": {"$date": 1311638400000}, "grade": "C", "score": 36}], "name": "Jimmy Max Restaurant", "restaurant_id": "40387243"},
+{"address": {"building": "145", "coord": [-73.99905799999999, 40.72837800000001], "street": "Bleecker Street", "zipcode": "10012"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1396310400000}, "grade": "B", "score": 16}, {"date": {"$date": 1375747200000}, "grade": "B", "score": 18}, {"date": {"$date": 1363046400000}, "grade": "A", "score": 12}, {"date": {"$date": 1339459200000}, "grade": "B", "score": 14}], "name": "Peculiar Pub", "restaurant_id": "40387277"},
+{"address": {"building": "484", "coord": [-73.9932633, 40.752437], "street": "8 Avenue", "zipcode": "10001"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1412640000000}, "grade": "A", "score": 10}, {"date": {"$date": 1379376000000}, "grade": "A", "score": 12}, {"date": {"$date": 1368576000000}, "grade": "A", "score": 3}, {"date": {"$date": 1329782400000}, "grade": "A", "score": 10}], "name": "T.G.I. Friday'S", "restaurant_id": "40387324"},
+{"address": {"building": "432", "coord": [-73.97495669999999, 40.7833], "street": "Columbus Avenue", "zipcode": "10024"}, "borough": "Manhattan", "cuisine": "Pizza/Italian", "grades": [{"date": {"$date": 1407110400000}, "grade": "A", "score": 12}, {"date": {"$date": 1394409600000}, "grade": "A", "score": 2}, {"date": {"$date": 1373414400000}, "grade": "B", "score": 20}, {"date": {"$date": 1339545600000}, "grade": "A", "score": 9}, {"date": {"$date": 1321401600000}, "grade": "A", "score": 13}, {"date": {"$date": 1312848000000}, "grade": "C", "score": 8}], "name": "Uno Chicago Grill", "restaurant_id": "40387339"},
+{"address": {"building": "201", "coord": [-73.97672659999999, 40.78598119999999], "street": "West   83 Street", "zipcode": "10024"}, "borough": "Manhattan", "cuisine": "Caf\u00e9/Coffee/Tea", "grades": [{"date": {"$date": 1411516800000}, "grade": "Z", "score": 50}, {"date": {"$date": 1380240000000}, "grade": "A", "score": 10}, {"date": {"$date": 1367971200000}, "grade": "A", "score": 12}, {"date": {"$date": 1328745600000}, "grade": "A", "score": 3}, {"date": {"$date": 1317772800000}, "grade": "A", "score": 6}], "name": "Cafe Lalo", "restaurant_id": "40387357"},
+{"address": {"building": "5189A", "coord": [-73.91039789999999, 40.8745536], "street": "Broadway", "zipcode": "10463"}, "borough": "Bronx", "cuisine": "Pizza", "grades": [{"date": {"$date": 1420761600000}, "grade": "A", "score": 10}, {"date": {"$date": 1403481600000}, "grade": "A", "score": 9}, {"date": {"$date": 1381881600000}, "grade": "A", "score": 10}, {"date": {"$date": 1368576000000}, "grade": "C", "score": 13}, {"date": {"$date": 1348099200000}, "grade": "A", "score": 4}, {"date": {"$date": 1335139200000}, "grade": "A", "score": 12}], "name": "Arturo'S Pizza", "restaurant_id": "40387399"},
+{"address": {"building": "975979", "coord": [-73.9641006, 40.7566992], "street": "First Avenue", "zipcode": "10022"}, "borough": "Manhattan", "cuisine": "Delicatessen", "grades": [{"date": {"$date": 1409270400000}, "grade": "A", "score": 9}, {"date": {"$date": 1394496000000}, "grade": "A", "score": 9}, {"date": {"$date": 1373846400000}, "grade": "B", "score": 14}, {"date": {"$date": 1360886400000}, "grade": "A", "score": 11}, {"date": {"$date": 1340150400000}, "grade": "A", "score": 7}, {"date": {"$date": 1326240000000}, "grade": "A", "score": 12}], "name": "Tal Bagels Deli", "restaurant_id": "40387418"},
+{"address": {"building": "1357", "coord": [-73.9497152, 40.653664], "street": "Nostrand Avenue", "zipcode": "11226"}, "borough": "Brooklyn", "cuisine": "Caribbean", "grades": [{"date": {"$date": 1384905600000}, "grade": "A", "score": 5}, {"date": {"$date": 1347408000000}, "grade": "A", "score": 9}, {"date": {"$date": 1330387200000}, "grade": "A", "score": 12}, {"date": {"$date": 1318377600000}, "grade": "A", "score": 11}], "name": "Nostrand Island Eatery", "restaurant_id": "40387428"},
+{"address": {"building": "772", "coord": [-73.90745059999999, 40.81268559999999], "street": "East  149 Street", "zipcode": "10455"}, "borough": "Bronx", "cuisine": "Italian", "grades": [{"date": {"$date": 1392854400000}, "grade": "A", "score": 12}, {"date": {"$date": 1359936000000}, "grade": "A", "score": 11}, {"date": {"$date": 1328486400000}, "grade": "A", "score": 5}, {"date": {"$date": 1317081600000}, "grade": "A", "score": 11}, {"date": {"$date": 1304899200000}, "grade": "A", "score": 7}], "name": "Venice Restaurant", "restaurant_id": "40387477"},
+{"address": {"building": "881", "coord": [-73.9105009, 40.8005198], "street": "East  134 Street", "zipcode": "10454"}, "borough": "Bronx", "cuisine": "American", "grades": [{"date": {"$date": 1393977600000}, "grade": "A", "score": 7}, {"date": {"$date": 1361836800000}, "grade": "A", "score": 10}, {"date": {"$date": 1330473600000}, "grade": "A", "score": 2}, {"date": {"$date": 1318291200000}, "grade": "A", "score": 12}, {"date": {"$date": 1306800000000}, "grade": "A", "score": 12}], "name": "Walnut Bus Stop", "restaurant_id": "40387528"},
+{"address": {"building": "136-11", "coord": [-73.8290925, 40.7587999], "street": "41 Avenue", "zipcode": "11355"}, "borough": "Queens", "cuisine": "American", "grades": [{"date": {"$date": 1408579200000}, "grade": "A", "score": 11}, {"date": {"$date": 1394582400000}, "grade": "A", "score": 5}, {"date": {"$date": 1360713600000}, "grade": "A", "score": 7}, {"date": {"$date": 1328745600000}, "grade": "A", "score": 10}], "name": "Kelly'S Pub", "restaurant_id": "40387549"},
+{"address": {"building": "1258", "coord": [-74.065258, 40.612447], "street": "Bay Street", "zipcode": "10305"}, "borough": "Staten Island", "cuisine": "American", "grades": [{"date": {"$date": 1418774400000}, "grade": "A", "score": 8}, {"date": {"$date": 1400630400000}, "grade": "A", "score": 7}, {"date": {"$date": 1386806400000}, "grade": "C", "score": 2}, {"date": {"$date": 1365033600000}, "grade": "A", "score": 7}, {"date": {"$date": 1347321600000}, "grade": "B", "score": 26}, {"date": {"$date": 1329523200000}, "grade": "A", "score": 9}], "name": "Rosebank Tavern", "restaurant_id": "40387746"},
+{"address": {"building": "900", "coord": [-73.9805746, 40.7652002], "street": "7 Avenue", "zipcode": "10019"}, "borough": "Manhattan", "cuisine": "Italian", "grades": [{"date": {"$date": 1414368000000}, "grade": "A", "score": 11}, {"date": {"$date": 1378684800000}, "grade": "A", "score": 9}, {"date": {"$date": 1365033600000}, "grade": "A", "score": 9}, {"date": {"$date": 1344988800000}, "grade": "A", "score": 2}], "name": "Trattoria Della Arte", "restaurant_id": "40387754"},
+{"address": {"building": "842484", "coord": [-73.98010790000001, 40.6862191], "street": "20 -3Rd Avenue", "zipcode": "11209"}, "borough": "Brooklyn", "cuisine": "Italian", "grades": [{"date": {"$date": 1421193600000}, "grade": "A", "score": 11}, {"date": {"$date": 1397001600000}, "grade": "A", "score": 9}, {"date": {"$date": 1380153600000}, "grade": "A", "score": 11}, {"date": {"$date": 1341964800000}, "grade": "A", "score": 13}], "name": "Areo Restaurant", "restaurant_id": "40387787"},
+{"address": {"building": "614", "coord": [-73.9916209, 40.7593916], "street": "9 Avenue", "zipcode": "10036"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1398297600000}, "grade": "A", "score": 10}, {"date": {"$date": 1377043200000}, "grade": "B", "score": 27}, {"date": {"$date": 1360108800000}, "grade": "A", "score": 12}, {"date": {"$date": 1340582400000}, "grade": "A", "score": 13}, {"date": {"$date": 1324339200000}, "grade": "B", "score": 17}, {"date": {"$date": 1306886400000}, "grade": "A", "score": 11}], "name": "Westway Diner", "restaurant_id": "40387861"},
+{"address": {"building": "182", "coord": [-73.9998818, 40.74289419999999], "street": "8 Avenue", "zipcode": "10011"}, "borough": "Manhattan", "cuisine": "Mexican", "grades": [{"date": {"$date": 1410134400000}, "grade": "A", "score": 12}, {"date": {"$date": 1394496000000}, "grade": "A", "score": 9}, {"date": {"$date": 1374019200000}, "grade": "A", "score": 9}, {"date": {"$date": 1341792000000}, "grade": "A", "score": 7}, {"date": {"$date": 1330905600000}, "grade": "A", "score": 11}, {"date": {"$date": 1319500800000}, "grade": "A", "score": 12}], "name": "Rocking Horse Cafe", "restaurant_id": "40387876"},
+{"address": {"building": "548", "coord": [-73.9983829, 40.7290603], "street": "La Guardia Place", "zipcode": "10012"}, "borough": "Manhattan", "cuisine": "Italian", "grades": [{"date": {"$date": 1417651200000}, "grade": "Z", "score": 17}, {"date": {"$date": 1404086400000}, "grade": "A", "score": 8}, {"date": {"$date": 1368403200000}, "grade": "A", "score": 12}, {"date": {"$date": 1352851200000}, "grade": "B", "score": 19}, {"date": {"$date": 1336694400000}, "grade": "A", "score": 9}, {"date": {"$date": 1324425600000}, "grade": "C", "score": 28}], "name": "Tre Giovani Pizza & Pasta", "restaurant_id": "40387890"},
+{"address": {"building": "4083", "coord": [-73.9391802, 40.844211], "street": "Broadway", "zipcode": "10032"}, "borough": "Manhattan", "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)", "grades": [{"date": {"$date": 1404172800000}, "grade": "A", "score": 9}, {"date": {"$date": 1385942400000}, "grade": "B", "score": 15}, {"date": {"$date": 1369094400000}, "grade": "B", "score": 26}, {"date": {"$date": 1367884800000}, "grade": "P", "score": 12}, {"date": {"$date": 1335139200000}, "grade": "A", "score": 12}, {"date": {"$date": 1323648000000}, "grade": "B", "score": 20}, {"date": {"$date": 1313107200000}, "grade": "A", "score": 12}], "name": "Galicia Restaurant", "restaurant_id": "40387907"},
+{"address": {"building": "1105", "coord": [-73.95950400000001, 40.773716], "street": "Lexington Avenue", "zipcode": "10075"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1407456000000}, "grade": "A", "score": 12}, {"date": {"$date": 1392940800000}, "grade": "A", "score": 2}, {"date": {"$date": 1377129600000}, "grade": "B", "score": 15}, {"date": {"$date": 1361318400000}, "grade": "A", "score": 9}, {"date": {"$date": 1345161600000}, "grade": "A", "score": 12}, {"date": {"$date": 1330560000000}, "grade": "A", "score": 8}], "name": "Lenox Hill Grill/Pizza", "restaurant_id": "40387986"},
+{"address": {"building": "47", "coord": [-78.877224, 42.89546199999999], "street": "Broadway @ Trinity Pl", "zipcode": "10006"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1418342400000}, "grade": "A", "score": 12}, {"date": {"$date": 1406851200000}, "grade": "A", "score": 9}, {"date": {"$date": 1391385600000}, "grade": "A", "score": 11}, {"date": {"$date": 1374624000000}, "grade": "A", "score": 13}, {"date": {"$date": 1342483200000}, "grade": "A", "score": 11}, {"date": {"$date": 1325721600000}, "grade": "A", "score": 11}], "name": "T.G.I. Friday'S", "restaurant_id": "40387990"},
+{"address": {"building": "2140", "coord": [-73.8529552, 40.83376459999999], "street": "Westchester Avenue", "zipcode": "10462"}, "borough": "Bronx", "cuisine": "Hamburgers", "grades": [{"date": {"$date": 1405382400000}, "grade": "A", "score": 5}, {"date": {"$date": 1388620800000}, "grade": "A", "score": 12}, {"date": {"$date": 1369785600000}, "grade": "A", "score": 3}, {"date": {"$date": 1349827200000}, "grade": "B", "score": 21}, {"date": {"$date": 1337731200000}, "grade": "A", "score": 13}, {"date": {"$date": 1325116800000}, "grade": "A", "score": 9}], "name": "Wendy'S", "restaurant_id": "40388016"},
+{"address": {"building": "1239", "coord": [-73.9585846, 40.8097806], "street": "Amsterdam Avenue", "zipcode": "10027"}, "borough": "Manhattan", "cuisine": "Ethiopian", "grades": [{"date": {"$date": 1393804800000}, "grade": "A", "score": 9}, {"date": {"$date": 1359763200000}, "grade": "A", "score": 13}, {"date": {"$date": 1324944000000}, "grade": "A", "score": 7}, {"date": {"$date": 1316736000000}, "grade": "A", "score": 12}], "name": "Masawa", "restaurant_id": "40388091"},
+{"address": {"building": "19", "coord": [-73.94838039999999, 40.6325077], "street": "Hillel Place", "zipcode": "11210"}, "borough": "Brooklyn", "cuisine": "Pizza", "grades": [{"date": {"$date": 1404777600000}, "grade": "A", "score": 11}, {"date": {"$date": 1373932800000}, "grade": "A", "score": 5}, {"date": {"$date": 1343260800000}, "grade": "A", "score": 3}, {"date": {"$date": 1313366400000}, "grade": "A", "score": 10}], "name": "Luigi'S Pizza", "restaurant_id": "40388134"},
+{"address": {"building": "200", "coord": [-74.0051398, 40.7281648], "street": "Varick Street", "zipcode": "10014"}, "borough": "Manhattan", "cuisine": "Latin (Cuban, Dominican, Puerto Rican, South & Central American)", "grades": [{"date": {"$date": 1404259200000}, "grade": "A", "score": 11}, {"date": {"$date": 1383868800000}, "grade": "A", "score": 13}, {"date": {"$date": 1365465600000}, "grade": "B", "score": 15}, {"date": {"$date": 1328832000000}, "grade": "A", "score": 12}, {"date": {"$date": 1316563200000}, "grade": "A", "score": 10}], "name": "Sob'S", "restaurant_id": "40388194"},
+{"address": {"building": "1290", "coord": [-73.9788903, 40.7605367], "street": "Avenue Of Americas", "zipcode": "10119"}, "borough": "Manhattan", "cuisine": "Chinese", "grades": [{"date": {"$date": 1411430400000}, "grade": "A", "score": 10}, {"date": {"$date": 1386720000000}, "grade": "A", "score": 12}, {"date": {"$date": 1365465600000}, "grade": "B", "score": 26}, {"date": {"$date": 1349308800000}, "grade": "B", "score": 23}, {"date": {"$date": 1336348800000}, "grade": "A", "score": 13}, {"date": {"$date": 1324339200000}, "grade": "B", "score": 22}], "name": "Yip'S", "restaurant_id": "40388209"},
+{"address": {"building": "50", "coord": [-73.976075, 40.780319], "street": "West   77 Street", "zipcode": "10024"}, "borough": "Manhattan", "cuisine": "Italian", "grades": [{"date": {"$date": 1400025600000}, "grade": "A", "score": 9}, {"date": {"$date": 1378425600000}, "grade": "A", "score": 9}, {"date": {"$date": 1356652800000}, "grade": "A", "score": 6}, {"date": {"$date": 1333065600000}, "grade": "A", "score": 10}], "name": "Scaletta Ristorante", "restaurant_id": "40388214"},
+{"address": {"building": "16", "coord": [-74.007032, 40.7196857], "street": "No Moore Street", "zipcode": "10013"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1408924800000}, "grade": "A", "score": 8}, {"date": {"$date": 1375660800000}, "grade": "A", "score": 5}, {"date": {"$date": 1343865600000}, "grade": "A", "score": 13}], "name": "Walker'S Restaurant", "restaurant_id": "40388218"},
+{"address": {"building": "532", "coord": [-73.993494, 40.756672], "street": "9 Avenue", "zipcode": "10018"}, "borough": "Manhattan", "cuisine": "American", "grades": [{"date": {"$date": 1414713600000}, "grade": "Z", "score": 47}, {"date": {"$date": 1383523200000}, "grade": "A", "score": 13}, {"date": {"$date": 1371513600000}, "grade": "A", "score": 11}, {"date": {"$date": 1340928000000}, "grade": "A", "score": 12}, {"date": {"$date": 1325203200000}, "grade": "B", "score": 19}], "name": "Holland Bar", "restaurant_id": "40388225"}
+  ]
